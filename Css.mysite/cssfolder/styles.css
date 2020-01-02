@@ -1,0 +1,76 @@
+body {
+    display: inline block;
+    margin: 0px;
+    text-align: center;
+    color:#464159;
+    font-size: 1rem;
+    font-family: Meriweather, serif;
+    background-color:#FFFDF9;
+}
+
+.top {
+    
+    height: 200px;
+    width: 100%;
+    display: inline-block;     
+    
+
+}
+.headshot {
+   
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+}
+.cloud {
+    text-align: right;
+    height: 50px;
+    width: 35px;
+    position: absolute;
+    top: 335px;
+    right: 30%;
+    
+ 
+ }
+ .cloud2{
+     text-align: left;
+     height: 50px;
+     width: 35px;
+      position: absolute;
+      top: 375px;
+      left: 30%;
+      
+  }
+
+
+.Mountain {
+    top: 300px;
+    height: 250px;
+    width: 250px;
+}
+
+h1 {
+    
+    font-family: 'Sacramento',cursive;
+    font-size: 3rem;
+    margin: 23px auto 23px auto ;
+    color:#018383;
+    line-height: ;
+    
+}
+
+h2 {
+    font-size: 1.5rem;
+    margin: 17px auto 17px auto ;
+    color:#018383;
+    font-weight: normal;
+}
+
+h3 {
+color: #42E6A4;
+}
+
+a:link{
+    color:#55AE95;
+}
+
